@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey, I'm Emil — full-stack web developer from Bulgaria 🇧🇬
+# 👋 Hey, I'm Emil — web developer from Bulgaria 🇧🇬
 
 [![Visitor Badge](https://komarev.com/ghpvc/?username=eomayski&style=for-the-badge&color=blueviolet)](https://github.com/eomayski)
 
-<img src="https://readme-typing-svg.demolab.com/?width=520&font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&random=false&lines=Building+things+for+the+web" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com/?width=520&font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&random=false&lines=Building+Things+for+The+Web" alt="Typing" />
 
 <br/>
 
@@ -27,6 +27,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -61,6 +62,7 @@
 
 | When | What |
 |------|------|
+| 🏫 Sep 2024 | **SoftUni** — JavaScript Basic |
 | 🏫 Jun 2025 | **Sirma Academy** — HTML & CSS workshop |
 | 🏫 Jul–Nov 2025 | **Sirma Academy** — JavaScript Front-End (exams + final project) |
 | 🏫 Sep–Oct 2025 | **SoftUni** — NodeJS exam & JS Back-End workshop |
