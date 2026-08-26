@@ -4,7 +4,7 @@
 
 [![Visitor Badge](https://komarev.com/ghpvc/?username=eomayski&style=for-the-badge&color=blueviolet)](https://github.com/eomayski)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?width=520&font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&random=false&text=Building+things+for+the+web+%F0%9F%9A%80)]()
+<img src="https://readme-typing-svg.demolab.com/?width=520&font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&random=false&lines=Building+things+for+the+web" alt="Typing" />
 
 <br/>
 
@@ -12,9 +12,7 @@
 <br/>
 🌱 **Currently learning** — deeper Node.js, payments & system design
 <br/>
-💬 **Ask me about** — web development, eIDAS / qualified e-signatures
-<br/>
-🪪 **Fun fact** — my side project ships with a local PKCS#11 agent where the private key never leaves the smart card
+🪪 **Fun fact** — I didn't fix Linux's smart card support. I built an app around it.
 
 </div>
 
@@ -28,7 +26,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
@@ -75,16 +72,7 @@
 
 <div align="center">
 
-[![Streak Stats](https://streak-stats.demolab.com?user=eomayski&hide_border=true&bg=transparent&title_color=white&text_color=9f9f9f)](https://streak-stats.demolab.com?user=eomayski)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eomayski&layout=compact&bg=transparent&title_color=white&text_color=9f9f9f)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=eomayski&theme=onedark&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Streak Stats](https://streak-stats.demolab.com?user=eomayski&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com?user=eomayski)
 
 </div>
 
