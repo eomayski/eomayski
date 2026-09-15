@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Emil — web developer from Bulgaria 🇧🇬
+# 👋 Hey, I'm Emil Omayski — JavaScript Developer
 
 [![Visitor Badge](https://komarev.com/ghpvc/?username=eomayski&style=for-the-badge&color=blueviolet)](https://github.com/eomayski)
 
